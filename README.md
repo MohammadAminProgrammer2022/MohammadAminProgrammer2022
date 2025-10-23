@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadaminprogrammer2022&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadaminprogrammer2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadaminprogrammer2022" alt="mohammadaminprogrammer2022" /></a> </p>
-
 - 🔭 I’m currently working on [stock prediction](https://github.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadAminProgrammer2022](https://github.com/MohammadAminProgrammer2022)
