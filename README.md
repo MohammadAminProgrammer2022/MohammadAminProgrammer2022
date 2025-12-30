@@ -37,3 +37,105 @@
 <hr>
 
 
+
+
+
+<!-- ===================== -->
+<!--   🚀 TECH TOOLBOX     -->
+<!-- ===================== -->
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<!-- Frontend -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+</a>
+
+<!-- Backend -->
+<a href="https://flask.palletsprojects.com/" title="Flask">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48"/>
+</a>
+<a href="https://www.djangoproject.com/" title="Django">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="48" height="48"/>
+</a>
+
+<!-- Databases -->
+<a href="https://neo4j.com/" title="Neo4j">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="48" height="48"/>
+</a>
+<a href="https://www.mysql.com/" title="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
+</a>
+<a href="https://www.mongodb.com/" title="MongoDB">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
+</a>
+
+<!-- ML / Scientific -->
+<a href="https://www.mathworks.com/products/matlab.html" title="MATLAB">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="48" height="48"/>
+</a>
+<a href="https://pytorch.org/" title="PyTorch">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
+</a>
+<a href="https://www.tensorflow.org/" title="TensorFlow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
+</a>
+
+<!-- Hardware / OS -->
+<a href="https://www.arduino.cc/" title="Arduino">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48"/>
+</a>
+<a href="https://www.linux.org/" title="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+</a>
+
+</div>
+
+---
+
+### 🏷️ Badge Row (optional)
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Neo4j](https://img.shields.io/badge/Neo4j-000?style=for-the-badge&logo=neo4j)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MATLAB](https://img.shields.io/badge/MATLAB-000?style=for-the-badge&logo=mathworks)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
+![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+---
+
+<details>
+<summary><b>🔗 Direct picture links (SVG)</b> (click to expand)</summary>
+
+- HTML5: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
+- CSS3: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
+- JavaScript: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+- Neo4j: https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg
+- Flask: https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg
+- Django: https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg
+- MySQL: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
+- MongoDB: https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg
+- MATLAB: https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg
+- PyTorch: https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg
+- TensorFlow: https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg
+- Arduino: https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg
+- Linux: https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+
+</details>
+
+<!-- Icons: Devicon (MIT). -->
